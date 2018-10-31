@@ -9,6 +9,7 @@ if(!empty($_POST['envoyer'])) {
     <input type="text" name="Nom">
     <label name="nom">Prenom:</label>
     <input type="text" name="prenom">
+    <input type="date" name="date">
     <input type="submit" id="envoyer" name="envoyer" value="envoyer">
 <form>
 
